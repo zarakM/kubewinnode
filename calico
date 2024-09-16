@@ -11,3 +11,6 @@ kubectl api-resources | grep '\projectcalico.org'
 
 
 Create file from this and apply https://github.com/projectcalico/calico/blob/master/manifests/calico-vxlan.yaml
+
+
+Create calicovxlan.yaml and create with create -f 
